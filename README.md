@@ -16,10 +16,6 @@
 * Adição e remoção de itens no carrinho de compras.
 * Interface moderna, fluida e responsiva.
 
-## 🎨 Demonstração (UI)
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/117293402/557113324-0a96f15c-f082-4be9-925a-aaa688a23d66.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI0ODQzOTQsIm5iZiI6MTc3MjQ4NDA5NCwicGF0aCI6Ii8xMTcyOTM0MDIvNTU3MTEzMzI0LTBhOTZmMTVjLWYwODItNGJlOS05MjVhLWFhYTY4OGEyM2Q2Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMwMlQyMDQxMzRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03OTFmODIwNDIwZWIzNWRkMGQ1OTZiOWY2M2ZhODQwNTk4MjgzMzE1MmYzNGI1MzgyNmRjODAxZjI4NmFmNzhiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.8XUFiutu8EizHe7zSSHFq77S3KguNJqtJ8aS2X3dQlc" width="250" title="Home">
-
 </p>
 
 ## 🛠️ Tecnologias Utilizadas
